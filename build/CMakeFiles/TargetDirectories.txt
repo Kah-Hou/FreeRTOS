@@ -1,0 +1,4 @@
+/home/rtos-sim/FreeRTOS-Emulator/build/CMakeFiles/edit_cache.dir
+/home/rtos-sim/FreeRTOS-Emulator/build/CMakeFiles/rebuild_cache.dir
+/home/rtos-sim/FreeRTOS-Emulator/build/CMakeFiles/FreeRTOS_Emulator.dir
+/home/rtos-sim/FreeRTOS-Emulator/build/CMakeFiles/commit.dir
